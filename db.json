@@ -86,6 +86,8 @@
         { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null },
         { "name": "Flexiones brazos juntos", "type": "WORK", "time": null, "repetitions": 5 },
         { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null },
+        { "name": "Flexiones de hombros", "type": "WORK", "time": null, "repetitions": 10 },
+        { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null },
         { "name": "Gato/Vaca", "type": "WORK", "time": null, "repetitions": 10 }
       ]
     }
