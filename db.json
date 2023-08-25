@@ -96,7 +96,7 @@
       "name": "Planchas + Flexiones LVL 2",
       "lang": "es-ES",
       "exercises": [
-        { "name": "Gato/Vaca", "type": "WORK", "time": null, "repetitions": 10 },
+        { "name": "Gato/Vaca", "type": "WORK", "time": null, "repetitions": 10, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=360&h=242&q=80" },
         { "name": "Plancha frontal", "type": "WORK", "time": 45, "repetitions": null },
         { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null },
         { "name": "Plancha lateral izquierda", "type": "WORK", "time": 30, "repetitions": null },
