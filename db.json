@@ -1,23 +1,6 @@
 {
   "workout": [
     {
-      "id": 1,
-      "name": "Planks Lvl 1",
-      "lang": "en-US",
-      "exercises": [
-        { "name": "Cow/Cat", "type": "WORK", "time": null, "repetitions": 10 },
-        { "name": "Front plank", "type": "WORK", "time": 30, "repetitions": null },
-        { "name": "Break", "type": "BREAK", "time": 30, "repetitions": null },
-        { "name": "Left plank", "type": "WORK", "time": 30, "repetitions": null },
-        { "name": "Break", "type": "BREAK", "time": 30, "repetitions": null },
-        { "name": "Right plank", "type": "WORK", "time": 30, "repetitions": null },
-        { "name": "Break", "type": "BREAK", "time": 30, "repetitions": null },
-        { "name": "Front plank", "type": "WORK", "time": 30, "repetitions": null },
-        { "name": "Break", "type": "BREAK", "time": 30, "repetitions": null },
-        { "name": "Cow/Cat", "type": "WORK", "time": null, "repetitions": 10 }
-      ]
-    },
-    {
       "id": 2,
       "name": "Planks Lvl 1 (Short Version)",
       "lang": "en-US",
@@ -32,23 +15,6 @@
         { "name": "Front plank", "type": "WORK", "time": 4, "repetitions": null },
         { "name": "Break", "type": "BREAK", "time": 4, "repetitions": null },
         { "name": "Cow/Cat", "type": "WORK", "time": null, "repetitions": 10 }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Planchas Nivel 1",
-      "lang": "es-ES",
-      "exercises": [
-        { "name": "Gato/Vaca", "type": "WORK", "time": null, "repetitions": 10 },
-        { "name": "Plancha frontal", "type": "WORK", "time": 30, "repetitions": null },
-        { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null },
-        { "name": "Plancha lateral izquierda", "type": "WORK", "time": 30, "repetitions": null },
-        { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null },
-        { "name": "Plancha lateral derecha", "type": "WORK", "time": 30, "repetitions": null },
-        { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null },
-        { "name": "Plancha frontal", "type": "WORK", "time": 30, "repetitions": null },
-        { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null },
-        { "name": "Gato/Vaca", "type": "WORK", "time": null, "repetitions": 10 }
       ]
     },
     {
