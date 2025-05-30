@@ -75,6 +75,72 @@
         { "name": "Descanso", "type": "BREAK", "time": 30, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
         { "name": "Gato/Vaca", "type": "WORK", "time": null, "repetitions": 10, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" }
       ]
+    },
+    {
+      "id": 7,
+      "name": "Día 1 - Tirón",
+      "lang": "es-ES",
+      "imageSize": {
+        "thumb": "?auto=format&fit=crop&w=64&h=54&q=80",
+        "mobile": "?auto=format&fit=crop&w=420&h=315&q=80",
+        "desktop": "?auto=format&fit=crop&w=800&h=600&q=80"
+      },
+      "exercises": [
+        { "name": "Polea al pecho", "type": "WORK", "time": null, "repetitions": 10, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Polea al pecho", "type": "WORK", "time": null, "repetitions": 10, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Polea al pecho", "type": "WORK", "time": null, "repetitions": 10, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+
+        { "name": "Remo con barra", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Remo con barra", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Remo con barra", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null,
+        "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+
+        { "name": "Face pulls", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Face pulls", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Face pulls", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null,
+        "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+
+        { "name": "Curl de biceps con mancuernas", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Curl de biceps con mancuernas", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Curl de biceps con mancuernas", "type": "WORK", "time": null, "repetitions": 12, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null,
+        "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+
+        { "name": "Curl femoral", "type": "WORK", "time": null, "repetitions": 15, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Curl femoral", "type": "WORK", "time": null, "repetitions": 15, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Curl femoral", "type": "WORK", "time": null, "repetitions": 15, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null,
+        "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+
+        { "name": "Abductores", "type": "WORK", "time": null, "repetitions": 15, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Abductores", "type": "WORK", "time": null, "repetitions": 15, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Abductores", "type": "WORK", "time": null, "repetitions": 15, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null,
+        "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+
+        { "name": "Elevación de tronco en banco inclinado", "type": "WORK", "time": null, "repetitions": 25, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Elevación de tronco en banco inclinado", "type": "WORK", "time": null, "repetitions": 25, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null, "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" },
+        { "name": "Elevación de tronco en banco inclinado", "type": "WORK", "time": null, "repetitions": 25, "photo": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0" },
+        { "name": "Descanso", "type": "BREAK", "time": 90, "repetitions": null,
+        "photo": "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c" }
+      ]
     }
   ]
 }
